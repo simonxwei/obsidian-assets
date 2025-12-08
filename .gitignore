@@ -1,0 +1,13 @@
+# 文字文件不进图片仓
+*.md
+*.txt
+*.doc
+*.docx
+
+# Obsidian 系统文件（万一有人把整个库拖进来）
+.obsidian/
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
